@@ -11,7 +11,7 @@
 - 🧠 OpenCV + Deep Learning for real-time AI applications
 - 📸 Three.js for creative 3D web experiences
 
-- 📫 How to reach me **techniclathingz031@gmail.com**
+- 📫 How to reach me **technicalthingz031@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
