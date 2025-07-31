@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ashwanikunal&label=Profile%20views&color=0e75b6&style=flat" alt="ashwanikunal" /> </p>
 
-
+<div align="center">
 - 🔭 I’m currently learning 
 -  ⚙️ Data Structures & Algorithms in C++ 
 -  🌐 Full-Stack Development (MERN)
@@ -11,7 +11,7 @@
 - 📸 Three.js for creative 3D web experiences
 
 - 📫 How to reach me **technicalthingz031@gmail.com**
-
+</div>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/ashwanik2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashwanik2005" height="30" width="40" /></a>
@@ -55,8 +55,9 @@
 </div>
 
 
-# 📊 GitHub Stats:
+
 <div align = "center">
+# 📊 GitHub Stats:
   
 ![](https://github-readme-stats.vercel.app/api?username=ashwanikunal&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ashwanikunal&theme=dark&hide_border=false)<br/>
