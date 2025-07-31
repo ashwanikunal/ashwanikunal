@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashwani kumar</h1>
 <h3 align="center">Passionate about building immersive tech & learning out loud</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwanikunal&label=Profile%20views&color=0e75b6&style=flat" alt="ashwanikunal" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ashwanikunal&label=Profile%20views&color=0e75b6&style=flat" alt="ashwanikunal" /> </p>
 
 
 - 🔭 I’m currently learning 
@@ -57,6 +57,7 @@
 
 # 📊 GitHub Stats:
 <div align = "center">
+  
 ![](https://github-readme-stats.vercel.app/api?username=ashwanikunal&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ashwanikunal&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashwanikunal&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
