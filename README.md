@@ -4,13 +4,12 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ashwanikunal&label=Profile%20views&color=0e75b6&style=flat" alt="ashwanikunal" /> </p>
 
 <div align="center">
-🔭 I’m currently learning 
--  ⚙️ Data Structures & Algorithms in C++ 
--  🌐 Full-Stack Development (MERN)
-- 🧠 OpenCV + Deep Learning for real-time AI applications
-- 📸 Three.js for creative 3D web experiences
-
-- 📫 How to reach me **technicalthingz031@gmail.com**
+<p align="center">🔭 I’m currently learning </p>
+<p align="center">-  ⚙️ Data Structures & Algorithms in C++ </p>
+<p align="center">-  🌐 Full-Stack Development (MERN)</p>
+<p align="center">- 🧠 OpenCV + Deep Learning for real-time AI applications</p>
+<p align="center">- 📸 Three.js for creative 3D web experiences</p>
+<p align="center">- 📫 How to reach me **technicalthingz031@gmail.com**</p>
 </div>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
