@@ -56,7 +56,8 @@
 
 
 <div align = "center">
-# 📊 GitHub Stats:
+  
+<h3># 📊 GitHub Stats:</h3>
   
 ![](https://github-readme-stats.vercel.app/api?username=ashwanikunal&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ashwanikunal&theme=dark&hide_border=false)<br/>
