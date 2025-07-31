@@ -1,22 +1,49 @@
-<h1 align="center">Hi 👋, I'm Ashwani kumar</h1>
-<h3 align="center">Passionate about building immersive tech & learning out loud</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwanikunal&label=Profile%20views&color=0e75b6&style=flat" alt="ashwanikunal" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashwanikunal" alt="ashwanikunal" /></a> </p>
-
-- 🔭 I’m currently learning **- ⚙️ Data Structures & Algorithms in C++ - 🌐 Full-Stack Development (MERN) - 🧠 OpenCV + Deep Learning for real-time AI applications - 📸 Three.js for creative 3D web experiences**
-
-- 📫 How to reach me **techniclathingz031@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ashwanik2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashwanik2005" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/ashwanikunal">
+    <img width="80%" alt="Hi, I'm Ashwani Kumar" src="./assets/gh-readme-header.png" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<br />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashwanikunal&show_icons=true&locale=en&layout=compact" alt="ashwanikunal" /></p>
+I'm a passionate tech explorer from India 🇮🇳, building immersive web & AI experiences.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashwanikunal&show_icons=true&locale=en" alt="ashwanikunal" /></p>
+**About me**
+
+- 🎓 B.Tech CSIT Student at KIET Group of Institutions  
+- 💡 Exploring **3D Web**, **AI with OpenCV**, and **Full-Stack (MERN)**  
+- 💬 Ask me anything [here](https://github.com/ashwanikunal/ashwanikunal/issues)  
+- 📫 Reach me at: **techniclathingz031@gmail.com**  
+
+<code><img height="20" alt="C++" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
+<code><img height="20" alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
+<code><img height="20" alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></code>
+<code><img height="20" alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
+<code><img height="20" alt="Three.js" src="https://raw.githubusercontent.com/github/explore/main/topics/threejs/threejs.png"></code>
+<code><img height="20" alt="OpenCV" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"></code>
+<code><img height="20" alt="Tailwind CSS" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"></code>
+
+| <a href="https://github.com/ashwanikunal"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ashwanikunal&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ashwani's GitHub Stats" /></a> | <a href="https://github.com/ashwanikunal"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwanikunal&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+#### Featured Repositories
+
+<a href="https://github.com/ashwanikunal/your-best-repo-1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashwanikunal&repo=your-best-repo-1&theme=buefy" />
+</a>
+<a href="https://github.com/ashwanikunal/your-best-repo-2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashwanikunal&repo=your-best-repo-2&theme=buefy" />
+</a>
+
+<br />
+<br />
+
+<a href="https://twitter.com/ashwanik2005">
+  <img align="right" alt="Ashwani Kumar | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/ashwanikumar031">
+  <img align="right" alt="Ashwani Kumar | LinkedIn" width="20px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
+</a>
+<a href="https://codesandbox.io/u/ashwanikunal">
+  <img align="right" alt="Ashwani Kumar | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+</a>
