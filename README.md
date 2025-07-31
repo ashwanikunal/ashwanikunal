@@ -1,6 +1,9 @@
+<h1 align="center">Hi 👋, I'm <strong>Ashwani Kumar</strong></h1>
+<h3 align="center">Passionate about building immersive tech & learning out loud</h3>
+
 <p align="center">
   <a href="https://github.com/ashwanikunal">
-    <img width="80%" alt="Hi, I'm Ashwani Kumar" src="./assets/gh-readme-header.png" />
+    <img width="80%" alt="Ashwani Kumar Banner" src="./assets/gh-readme-header.png" />
   </a>
 </p>
 
