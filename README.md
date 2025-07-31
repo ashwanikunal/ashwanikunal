@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ashwanikunal&label=Profile%20views&color=0e75b6&style=flat" alt="ashwanikunal" /> </p>
 
 <div align="center">
-<p align="center">🔭 I’m currently learning </p>
+<h4 align="center">🔭 I’m currently learning </h4>
 <p align="center">-  ⚙️ Data Structures & Algorithms in C++ </p>
 <p align="center">-  🌐 Full-Stack Development (MERN)</p>
 <p align="center">- 🧠 OpenCV + Deep Learning for real-time AI applications</p>
