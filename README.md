@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwanikunal&label=Profile%20views&color=0e75b6&style=flat" alt="ashwanikunal" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashwanikunal" alt="ashwanikunal" /></a> </p>
+
 
 - 🔭 I’m currently learning **- ⚙️ Data Structures & Algorithms in C++ - 🌐 Full-Stack Development (MERN) - 🧠 OpenCV + Deep Learning for real-time AI applications - 📸 Three.js for creative 3D web experiences**
 
