@@ -13,7 +13,7 @@
 - 📫 How to reach me **technicalthingz031@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
-<p align="cneter">
+<p align="center">
 <a href="https://twitter.com/ashwanik2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashwanik2005" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ashwani-kumar-140395315/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ashwani-kumar-140395315/" height="30" width="40" /></a>
 </p>
